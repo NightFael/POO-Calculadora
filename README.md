@@ -13,7 +13,7 @@ Trabalho desenvolvido para a disciplina de Programação Orientada a Objetos.
 - Divisão
 - Potência (`^`)
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Java (JDK)
 - Java Swing (Interface Gráfica)
 - Eclipse IDE
